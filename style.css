@@ -1,0 +1,101 @@
+.khung{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 100vh;
+    background-color: #1d171dbe;
+    border: 20px;
+    padding: 30px;
+    gap: 20px;
+    float:left;
+
+}
+.cap1{
+    display: flex;
+    height: 90vh;
+    background-color: aliceblue;
+   
+}
+.cap1 img{
+    display: flex;
+    height: 30vh;
+    width: 100%;
+}
+.cap1 h3{
+    display: flex;
+    color: aquamarine;
+    justify-content: center;
+    align-items: center;  
+}  
+   
+    
+h1{
+    display: flex;
+    color: rgb(28, 36, 34);
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+time{
+    height: auto;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    float: left;
+    gap: 20px;
+
+}
+.box1{
+
+    height: 20px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    gap: 20px;
+
+}
+.cap2{
+    display: flex;
+    height: 90vh;
+    background-color: rgb(227, 194, 164);
+    padding-top: 20px;
+    border: 10px;
+    
+
+
+   
+}
+.cap2 img{
+    display: flex;
+    height: 30vh;
+    width: 100%;
+}
+
+.cap2 h3{
+    display: flex;
+    color: orange;
+    justify-content: center;
+    align-items: center;  
+}  
+   
+    
+h1{
+    display: flex;
+    color: rgb(28, 36, 34);
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+.cap3 h3{
+    display: flex;
+    color: rgb(127, 128, 168);
+    padding-top: 20px;
+    border: 10px;
+    
+}
